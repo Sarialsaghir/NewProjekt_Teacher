@@ -1,0 +1,14 @@
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\bin\Debug\net8.0\NewProject_Teacher.exe
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\bin\Debug\net8.0\NewProject_Teacher.deps.json
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\bin\Debug\net8.0\NewProject_Teacher.runtimeconfig.json
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\bin\Debug\net8.0\NewProject_Teacher.dll
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\bin\Debug\net8.0\NewProject_Teacher.pdb
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\obj\Debug\net8.0\NewProject_Teacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\obj\Debug\net8.0\NewProject_Teacher.AssemblyInfoInputs.cache
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\obj\Debug\net8.0\NewProject_Teacher.AssemblyInfo.cs
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\obj\Debug\net8.0\NewProject_Teacher.csproj.CoreCompileInputs.cache
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\obj\Debug\net8.0\NewProject_Teacher.dll
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\obj\Debug\net8.0\refint\NewProject_Teacher.dll
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\obj\Debug\net8.0\NewProject_Teacher.pdb
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\obj\Debug\net8.0\NewProject_Teacher.genruntimeconfig.cache
+C:\Users\saro-\OneDrive\Desktop\SatrProjects\NewProject_Teacher\obj\Debug\net8.0\ref\NewProject_Teacher.dll
